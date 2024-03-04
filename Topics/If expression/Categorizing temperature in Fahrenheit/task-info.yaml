@@ -1,0 +1,25 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    text: |-
+      import java.util.*
+      
+      fun main(args: Array<String>) {
+          val scan = Scanner(System.`in`)
+      
+          // input temperature in Fahrenheit
+          val temperature: Int = scan.nextLine().trim().toInt()
+      
+          // your code goes here
+      
+      
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/41273#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 01 Mar 2024 20:35:21 UTC"
+record: -1
+submission_language: kotlin

@@ -1,0 +1,17 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    highlight_level: NONE
+    text: |-
+      fun main() {
+          // put your code here
+      }
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4650#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 01 Mar 2024 20:53:53 UTC"
+record: -1
+submission_language: kotlin

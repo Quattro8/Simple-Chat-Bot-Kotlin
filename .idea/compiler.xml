@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-classes-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-generated-sources-headers-java.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Simple_Chat_Bot__Kotlin_-task.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Declaring_functions-Get_last_digit.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Declaring_functions-Parameters.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Declaring_functions-Return_type.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Declaring_functions-The_square_of_a_number.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Declaring_functions-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-For_loop_and_ranges-Creating_a_beginners'_number_counting_application.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-For_loop_and_ranges-Define_a_for-loop.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-For_loop_and_ranges-The_roots_of_equation.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-For_loop_and_ranges-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-For_loop_and_ranges-Understanding_output_of_'step'_and_'downTo'_in_loops.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Categorizing_temperature_in_Fahrenheit.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Comparing_two_integers_and_displaying_the_greater_one.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Find_the_output.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Healthy_sleep.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Statements_about_brackets_in_if.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-If_expression-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Loops__repeat_statement-Grades.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Loops__repeat_statement-Kotlin_x5.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Loops__repeat_statement-Repeat_by_value.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Loops__repeat_statement-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Ranges-Check_the_value.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Ranges-Even_numbers_with_steps.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Ranges-Replenishment_of_cells_in_the_warehouse.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Ranges-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-Ranges-Within_both_ranges.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-While_loops-Choose_the_correct_ones.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-While_loops-Theory.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.Topics-While_loops-What_does_the_code_print.main" target="8" />
+      <module name="Simple_Chat_Bot_(Kotlin)1.util.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

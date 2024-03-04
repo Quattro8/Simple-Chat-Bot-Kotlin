@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-For_loop_and_ranges-Understanding_output_of_'step'_and_'downTo'_in_loops" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/For loop and ranges/Understanding output of 'step' and 'downTo' in loops" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple Chat Bot (Kotlin)1" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/For loop and ranges/Understanding output of 'step' and 'downTo' in loops">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/For loop and ranges/Understanding output of 'step' and 'downTo' in loops/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/For loop and ranges/Understanding output of 'step' and 'downTo' in loops/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/For loop and ranges/Understanding output of 'step' and 'downTo' in loops/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
